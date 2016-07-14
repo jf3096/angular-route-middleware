@@ -1,0 +1,17 @@
+{
+  "name": "angular-route-middleware",
+  "version": "1.0.0",
+  "description": "A middleware for angular route module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "middleware",
+    "angular",
+    "angular",
+    "route",
+    "ngRoute"
+  ],
+  "author": "Ailun She",
+  "license": "ISC"
+}
