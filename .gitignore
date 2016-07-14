@@ -1,5 +1,5 @@
 node_modules
 dist
-demo/node_modules
-.idea
+.idea/**
 .idea/workspace.xml
+.idea/vcs.xml
