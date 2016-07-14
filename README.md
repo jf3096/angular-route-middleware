@@ -93,3 +93,5 @@ $routeProvider
        controllerAs: "sub"
 })
 ```
+## Demo
+![alt tag](https://raw.githubusercontent.com/jf3096/angular-route-middleware/master/gif/set-title.gif)
