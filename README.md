@@ -14,6 +14,10 @@ I created a scaffold/demo page as get started.
 It is not limited in angular-route but able to apply to other library like ui-route or ngNewRoute.
 * angular-route
 
+##Languages
+* Typescript
+* Javascript (TS will eventually compile to js. so feel free to use it if you are not TS coder)
+
 ## Source of Idea
 The whole idea was inspired by react-thunk and is to introduce a middleware for angular route module so that developers are able to manage route state in a loosely coupled way. It is quite useful for following cases:
 
