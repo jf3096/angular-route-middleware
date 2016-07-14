@@ -94,4 +94,4 @@ $routeProvider
 })
 ```
 ## Demo
-![alt tag](https://raw.githubusercontent.com/jf3096/angular-route-middleware/master/gif/set-title.gif)
+![alt tag](/gif/set-title.gif)
