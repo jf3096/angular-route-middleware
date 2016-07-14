@@ -94,4 +94,4 @@ $routeProvider
 })
 ```
 ## Demo
-![alt tag](/gif/set-title.gif)
+![alt tag](/gif/set-title-demo.gif)
